@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/var/www/www.hariganet.com/public_html'
+let g:netrw_dirhist_2='/var/www/www.hariganet.com'
+let g:netrw_dirhist_3='/var/www'
+let g:netrw_dirhist_4='/var'
+let g:netrw_dirhist_5='/'
+let g:netrw_dirhist_6='/etc'

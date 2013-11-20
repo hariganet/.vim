@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/hariganet/dotfiles/cassy/oh-my-zsh'
+let g:netrw_dirhist_2='/home/hariganet/dotfiles/vim'
+let g:netrw_dirhist_3='/home/hariganet/.vim/bundle/neocomplcache.vim'
+let g:netrw_dirhist_4='/var/www/www.hariganet.com/public_html/samplecode'
